@@ -11,6 +11,6 @@ window.SITE_CONFIG = {
   // Use your public Instagram profile URL, e.g. https://www.instagram.com/yourusername/
   instagramUrl: "",
   // Set true only after you have configured the webhook and verified it works.
-  enableLiveLeadForm: false,
+  enableLiveLeadForm: true,
   enableLiveChat: false
 };
