@@ -7,7 +7,7 @@
 window.SITE_CONFIG = {
   // Example: "https://your-public-n8n-domain/webhook/website-lead"
   leadWebhookUrl: "https://defog-vessel-hassle.ngrok-free.dev/webhook/website-lead",
-  chatWebhookUrl: 
+  chatWebhookUrl:  "",
   // Use your public Instagram profile URL, e.g. https://www.instagram.com/yourusername/
   instagramUrl: "",
   // Set true only after you have configured the webhook and verified it works.
